@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/a/Nic/Courses/Udacity-Android-Nanodeg/GridViewPager/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="/Users/a/Nic/Courses/Udacity-Android-Nanodeg/GridViewPager/Wearable/build/intermediates/pre-dexed/debug/classes-132af4e99d62667a6aa25ee5fa0f7635ac16e57c.jar" />
+    </item>
+    <item
+        jar="/Users/a/Nic/Courses/Udacity-Android-Nanodeg/GridViewPager/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/a/Nic/Courses/Udacity-Android-Nanodeg/GridViewPager/Wearable/build/intermediates/pre-dexed/debug/classes-098971de250b4d0749e2e2e6f816a5c5f349c19f.jar" />
+    </item>
+    <item
+        jar="/Users/a/Nic/Courses/Udacity-Android-Nanodeg/GridViewPager/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="/Users/a/Nic/Courses/Udacity-Android-Nanodeg/GridViewPager/Wearable/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-a1218bf7f0a809c3d07fa168011594eeea35ee61.jar" />
+    </item>
+    <item
+        jar="/Users/a/Nic/Courses/Udacity-Android-Nanodeg/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/a/Nic/Courses/Udacity-Android-Nanodeg/GridViewPager/Wearable/build/intermediates/pre-dexed/debug/classes-b7eacd58f363341efefcad7d4638be69eb5f3b47.jar" />
+    </item>
+    <item
+        jar="/Users/a/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/a/Nic/Courses/Udacity-Android-Nanodeg/GridViewPager/Wearable/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-2aad95d6dff1ca45082a7635cfb3e4ab6b6d326f.jar" />
+    </item>
+    <item
+        jar="/Users/a/Nic/Courses/Udacity-Android-Nanodeg/GridViewPager/Wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/a/Nic/Courses/Udacity-Android-Nanodeg/GridViewPager/Wearable/build/intermediates/pre-dexed/debug/classes-a01eaf4a896d92c7670b0359cd2ef8b993f73558.jar" />
+    </item>
+    <item
+        jar="/Users/a/Nic/Courses/Udacity-Android-Nanodeg/GridViewPager/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/a/Nic/Courses/Udacity-Android-Nanodeg/GridViewPager/Wearable/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-d7b61b250e3732233b51b02b1a554f80c1cc7bb4.jar" />
+    </item>
+    <item
+        jar="/Users/a/Nic/Courses/Udacity-Android-Nanodeg/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="/Users/a/Nic/Courses/Udacity-Android-Nanodeg/GridViewPager/Wearable/build/intermediates/pre-dexed/debug/classes-4b48616e41354ed1a88f0ad1f3b1757f89a546b0.jar" />
+    </item>
+    <item
+        jar="/Users/a/Nic/Courses/Udacity-Android-Nanodeg/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/a/Nic/Courses/Udacity-Android-Nanodeg/GridViewPager/Wearable/build/intermediates/pre-dexed/debug/classes-3c20fd82010d577b14a3b001e9c090c21608f7c4.jar" />
+    </item>
+    <item
+        jar="/Users/a/Nic/Courses/Udacity-Android-Nanodeg/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/a/Nic/Courses/Udacity-Android-Nanodeg/GridViewPager/Wearable/build/intermediates/pre-dexed/debug/classes-1fff0144878fbbbe9199ca38aa5b908a473c8113.jar" />
+    </item>
+
+</items>
