@@ -43,7 +43,7 @@ import java.util.List;
  * and {@link #notifyPageBackgroundChanged(int, int)}.
  */
 public class SampleGridPagerAdapter extends FragmentGridPagerAdapter {
-    private static final int TRANSITION_DURATION_MILLIS = 3000;
+    private static final int TRANSITION_DURATION_MILLIS = 6000;
 
     private final Context mContext;
     private List<Row> mRows;
