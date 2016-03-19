@@ -19,7 +19,7 @@
     <string name="app_name">GridViewPager Sample</string>
     <string name="welcome_title">GridViewPager</string>
     <string name="welcome_text">Sample App</string>
-
+    <string name="android_wear_index">Android Wear Index</string>
     <string name="about_title">About</string>
     <string name="about_text">Content is organized into multiple pages. Swipe between cards to view other content.</string>
 
