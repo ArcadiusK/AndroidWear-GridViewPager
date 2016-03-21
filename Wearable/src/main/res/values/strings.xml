@@ -28,7 +28,7 @@
     <string name="cards_title">Cards</string>
     <string name="cards_text">Each page is created using a CardFragment. A layout is placed inside the card and the rest is handled automatically.</string>
 
-    <string name="items_counter">Items Counter</string>
+    <string name="enumeraed_items_counter">Items Counter</string>
     <string name="loop_counter">Loop Counter</string>
 
     <string name="expansion_title">Expansion</string>
