@@ -30,6 +30,7 @@
 
     <string name="enumeraed_items_counter">Items Counter</string>
     <string name="loop_counter">Loop Counter</string>
+    <string name="inca_enabled">INCA Enabled</string>
 
     <string name="expansion_title">Expansion</string>
     <string name="expansion_text">By default, each card will grow taller to accommodate extra content. Tall cards can be scrolled through like any scrollable view. The maximum height is controlled by setExpansionFactor() with a default of 10 pages. After that you\'ll notice a faded edge to indicate there is more. Expansion can be disabled completely using setExpansionEnabled(false). With this, the content will be clipped if it\'s taller than one page.</string>
