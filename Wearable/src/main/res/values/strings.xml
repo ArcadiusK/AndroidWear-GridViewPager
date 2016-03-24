@@ -39,8 +39,9 @@
     <string name="backgrounds_text">Backgrounds are supplied by the adapter\'s getBackground method. Parallax and crossfade effects are applied automatically.</string>
 
     <string name="columns_title">Columns</string>
+    
     <string name="columns_text">When moving between rows, the pager always returns to column 0. This is adjustable in the adapter. See method getCurrentColumnForRow().</string>
-
+<string name="haywire">haywire circut</string>
     <string name="dismiss_title">Dismiss</string>
     <string name="dismiss_text">To exit the application, swipe from left to right.</string>
     <string name="custom_fragment_text">"GridViewPager will accept any fragment. This is an example of a custom fragment with it's own background."</string>
